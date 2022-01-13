@@ -52,8 +52,11 @@ Route::get('/logins', function () {
 Route::get('login', function () {
     return view('auth.login');
 });
-Route::get('/', function () {
+Route::get('admin', function () {
     return view('auth.login');
+});
+Route::get('/', function () {
+    return "Comming soon";
 });
 Route::get('/Owner', function () {
     return view('/Owner.dashboard');
