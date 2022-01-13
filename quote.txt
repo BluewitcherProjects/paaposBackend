@@ -1,0 +1,11 @@
+कूपन्स डिस्काउंट मैक्सिमम 
+2.रेट टैक्स इन्क्लूडेट
+३. लास्ट स्टॉक to be shown 
+४. कस्टमर के आर्डर में जो आइटम्स नहीं मिले उनकी लिस्ट
+५. customer ने add to cart किया पर आर्डर नहीं वो हमें पता कैसे चलेगा
+६. रेटिंग of orders
+७. पेमेंट mode आर्डर में mantion होना चाहिए 
+८. barcode mrp rate item master में चाहिए
+9.Request d customer for Review after Delivery
+10. Product ID unique rahe har product ka
+11. While filling MRP and Selling price , it should calculate discount Auto
